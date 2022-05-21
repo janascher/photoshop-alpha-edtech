@@ -17,7 +17,7 @@
 ## 👀 Preview
 
 <div align="center">
-	<a href="">
+	<a href="https://janascher.github.io/photoshop-alpha-edtech/">
 		<img src="https://user-images.githubusercontent.com/79182711/169671849-a1b2f527-cbbf-46e6-bb9c-dc3b673240eb.PNG" alt="Imagem da página da aula 01 feito no Gimp" title="Imagem da página da aula 01 feito no Gimp" width="650" />
 	</a>
 </div>
