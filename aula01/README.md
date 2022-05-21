@@ -3,15 +3,30 @@
 		<img src="https://user-images.githubusercontent.com/79182711/169671776-68b4e7e4-fba3-47f0-81e8-2854cb862a12.png" alt="Alpha EdTech" title="Alpha EdTech" width="250" />
 	</a>
 	<h4>
-    🚧 Atividades das Aulas de Edição de Imagens 🎨
+    Atividade da Aula 08 de CSS 🎨
     <a  href="https://www.alphaedtech.org.br/">
         Alpha EdTech
     </a>
-	🚧
 	</h4>
 	<sub> Feito com ❤️ por <a href="https://github.com/janascher">Janaína Scher</a></sub>
 </div>
 <br />
+
+---
+
+## 👀 Preview
+
+<div align="center">
+	<a href="">
+		<img src="https://user-images.githubusercontent.com/79182711/169671849-a1b2f527-cbbf-46e6-bb9c-dc3b673240eb.PNG" alt="Imagem da página da aula 01 feito no Gimp" title="Imagem da página da aula 01 feito no Gimp" width="650" />
+	</a>
+</div>
+
+--- 
+
+## 💻 Sobre a atividade
+
+Criado uma página para demonstrar os exercícios de edição de imagens feitos no [GIMP](https://www.gimp.org/).
 
 ---
 
